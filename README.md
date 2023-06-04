@@ -1,4 +1,4 @@
-# orders-events-etl
+# Orders-events-ETL
 
 ## Usage
 - used data_generator.py to generate random and fake data and sent it to MongoDB Atlas 
